@@ -7,7 +7,6 @@
     "name": "",
     "icons": ["aniconhere"],
     "default_icon": "aniconere",
-    "default_popup": "popup.html",
     "default_title": "NSFW images blocker"
   },
   "content_scripts": [ {
