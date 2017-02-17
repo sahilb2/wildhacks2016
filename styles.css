@@ -1,5 +1,5 @@
-/*
 body {
+  /* Overides the exisiting image with a picture of cat with correct size */
   background: url('https://media.giphy.com/media/3o7WTDJQVuYwhhuLhC/giphy.gif') !important;
 }
 
@@ -17,4 +17,3 @@ body {
   -webkit-filter: invert(100%);
   filter: invert(100%);
 }
-*/
