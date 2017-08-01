@@ -1,4 +1,4 @@
-#WildHacks NSFW Image Blocker using Clarifai API
+# WildHacks NSFW Image Blocker using Clarifai API
 
 **Summary**:
 We used the [Clarifai API](https://www.clarifai.com/api) in order to create a Google Chrome extension which blocks NSFW images. We used multiple different Clarifai API models and hundreds of pictures in order to train the Clarifai API to detect NSFW pictures accurately and with higher precision. 
